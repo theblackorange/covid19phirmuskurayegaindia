@@ -1,0 +1,18 @@
+body{ background: linear-gradient(to bottom, #F5F7FA 0%, #B8C6DB 100%); }
+
+.dice_common{
+	height: 200px;
+	width: 200px;
+}
+
+.common{
+	text-align: center;
+}
+
+#submit{
+	padding: 20px;
+	margin:15px;
+	background-color: black;
+	text-decoration-color: white;
+	color: white;
+}

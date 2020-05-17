@@ -1,0 +1,31 @@
+/*
+.carousel .carousel-inner{
+    height:500px
+    }
+    .carousel-inner .carousel-item img{
+    min-height:500px;
+    /*prevent it from stretch in screen size < than 768px
+    object-fit:cover
+    }
+    
+    @media(max-width:768px){
+    .carousel .carousel-inner{
+    /*prevent it from adding a white space between carousel and container elements
+    height:auto
+     }
+    }
+    */
+
+    .carousel-item {
+        height:500px;
+        width: 50%;
+       
+    }
+    
+
+    .center {
+        display: block;
+        margin: auto;
+        width: 50%;
+        padding: 75px 0;
+      }
